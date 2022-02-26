@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Sr. Edw. Turnor, Kt., speaker of the honourable House of Commons, to the Kings Most Excellent Majesty delivered on Tuesday the thirtieth day of July, 1661 at the adjournment of the Parliament.</title>
+            <author>Turnor, Edward, Sir, 1617-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71164</idno>
+            <idno type="STC">Wing T3352</idno>
+            <idno type="STC">ESTC R1593</idno>
+            <idno type="EEBO-CITATION">12222241</idno>
+            <idno type="OCLC">ocm 12222241</idno>
+            <idno type="VID">56441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:23 or 928:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Sr. Edw. Turnor, Kt., speaker of the honourable House of Commons, to the Kings Most Excellent Majesty delivered on Tuesday the thirtieth day of July, 1661 at the adjournment of the Parliament.</title>
+                  <author>Turnor, Edward, Sir, 1617-1676.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Twyford and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproductions of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56441:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>THE SPEECH OF S<hi rend="sup">r</hi> Edw. Turnor, K<hi rend="sup">t.</hi> 
+               <hi>Speaker</hi> of the Honorable Houſe of COMMONS, TO THE KINGS Moſt Excellent MAJESTY, <hi>Delivered on Tueſday the Thirtieth day of</hi> July, 1661. <hi>at the Adjournment of the Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Twyford,</hi> and are to be ſold at his Shop in Vine-Court Middle-Temple. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:56441:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="1" facs="tcp:56441:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>The Speech of Sir <hi>Edward Turnor</hi> Knight, Speaker of the Honorable Houſe of <hi>Commons,</hi> to the <hi>KING</hi>'s moſt Excellent Majeſty; Deli<g ref="char:EOLhyphen"/>vered on Tueſday the Thirtieth day of <hi>July, 1661.</hi> at their Adjournment.</head>
+            <opener>
+               <salute>May it pleaſe Your moſt Excellent Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Wiſe Man tells us, <hi>there is a time to ſow, and a time to reap.</hi> Since Your Majeſty did convene the Knights, Citizens and Burgeſſes of the Commons Houſe of Parliament, they have with unwea<g ref="char:EOLhyphen"/>ried labour conſulted for the Service of Your Majeſty, and the good of this Nation; and now the Fields grow white to Harveſt. In the great field of Nature all fruits do not grow ripe together, but ſome in one moneth, ſome in an<g ref="char:EOLhyphen"/>other; one time affords Your Majeſty Prim<g ref="char:EOLhyphen"/>roſes and Violets, another time preſents you with <hi>July</hi>-flowers. So it is in the courſe of our proceedings; ſome of our fruits are in the Bloſſome, when others are in the Bud; ſome are near ripe, and others fit to be preſented to
+<pb n="2" facs="tcp:56441:3"/>
+               <!-- PDF PAGE 33 -->Your Majeſty. Amongſt the number of our choiceſt ripe fruits, we firſt preſent You with a Bill for the Safety and Preſervation of Your Majeſty's Royal Perſon and Government.</p>
+            <p>Your Predeceſſor, Queen <hi>Elizabeth</hi> of fa<g ref="char:EOLhyphen"/>mous memory, in the Thirteenth year of her Reign, by <hi>Pius Quintus,</hi> then Biſhop of <hi>Rome,</hi> was Excommunicated and Anathematized: <hi>John Felton</hi> poſted up a Bull at the Biſhop of <hi>Londons</hi> Palace, whereby ſhe was declared, to be deprived of her Title to the Kingdome, and all the People of this Realm abſolved from their Allegiance to her: The Queen of <hi>Scots</hi> was then a priſoner in <hi>England,</hi> and the Duke of <hi>Norfolk</hi> for many Deſigns againſt our Queen committed to the Tower. Hiſtorians tell us, the times were very troubleſome, full of ſuſpi<g ref="char:EOLhyphen"/>tions and conſpiracies: But, Sir, what then was onely feared, hath in our time been put in execution: No Age hath known, no Hiſtory makes mention of ſuch ſad Tragedies. It there<g ref="char:EOLhyphen"/>fore now becomes your People after this glo<g ref="char:EOLhyphen"/>rious Reſtitution to endeavour all juſt wayes of preſervation.</p>
+            <p>The Queen in her time of trouble and danger ſummoned a Parliament; and ſuch was the Love of the People to Her and her
+<pb n="3" facs="tcp:56441:3"/>
+               <!-- PDF PAGE 33 -->Government, that they forthwith made a Law for her ſecurity: According to which Preſident, We your Loyal Commons alſo, who have be<g ref="char:EOLhyphen"/>fore them no leſs cauſe of fear, but more Obli<g ref="char:EOLhyphen"/>gations, and Affection to your Majeſty, do humbly tender You a Bill, wherein we deſire it may be Enacted, That if any Perſon ſhall compaſs, imagine or deſign Your Majeſties Death, Deſtruction, or bodily Harm, to im<g ref="char:EOLhyphen"/>priſon, or reſtrain Your Royal Perſon, or depoſe you, or ſhall levy War againſt your Ma<g ref="char:EOLhyphen"/>jeſty, within or without your Realm, or ſtir up any forraign Power to invade You, and ſhall expreſs or declare ſuch his wicked intention by printing, writing, preaching, or malicious and adviſed ſpeaking, being thereof legally convicted, ſhall be adjudged a Traitor.</p>
+            <p>And becauſe much of our late Miſery, took its riſe from ſeditious Pamphlets, and Speeches from the Pulpits, it is provided, That if any man ſhall maliciouſly and adviſedly publiſh or affirm Your Majeſty to be an Heretick, or a Pa<g ref="char:EOLhyphen"/>piſt, or that you endeavour to introduce Popery, or ſhall ſtir up the People to hatred or diſlike of your Royal Perſon or Government, then eve<g ref="char:EOLhyphen"/>ry ſuch Perſon ſhall be made incapable of any Office or Imployment, either in Church or State. And if any man ſhall maliciouſly and
+<pb n="4" facs="tcp:56441:4"/>
+               <!-- PDF PAGE 34 -->adviſedly affirm, That the Parliament begun at <hi>Weſtminſter</hi> the third of <hi>September</hi> 1640. is yet in being, or that any Covenant or Engage<g ref="char:EOLhyphen"/>ment ſince that time impoſed upon the People, doth oblige them to endeavour a Change of the Government either in Church or State; or that either, or both Houſes of Parliament have a Legiſlative Power without Your Majeſty, then every ſuch Offendor be<g ref="char:EOLhyphen"/>ing thereof legally convicted, ſhall incur the Penalties of a <hi>Praemunire,</hi> mentioned in the Statute made 16. R. 2.</p>
+            <p>In the next place, <hi>Sir,</hi> Give me leave, I beſeech You (without any violence to the <hi>Act</hi> of <hi>Oblivion</hi>) to remember a ſad effect of the Diſtempers in the laſt age: when the Feaver began to ſeize upon the People, they were im<g ref="char:EOLhyphen"/>patient till they loſt ſome blood; The Lords Spiritual, who in all ages had injoyed a place in Parliament, were by an Act of Parliament ex<g ref="char:EOLhyphen"/>cluded.</p>
+            <p>Your Majeſties Royal Grandfather was of<g ref="char:EOLhyphen"/>ten wont to ſay, <hi>No Biſhop, no King,</hi> We found his words true, for after they were put out, the Feavor ſtill increaſing in another fit, The Tem<g ref="char:EOLhyphen"/>poral Lords followed, and then the King him<g ref="char:EOLhyphen"/>ſelf: nor did the humor reſt there, but in the round, the Houſe of Commons was firſt Gar<g ref="char:EOLhyphen"/>bled, and then turned out of doors.</p>
+            <pb n="5" facs="tcp:56441:4"/>
+            <!-- PDF PAGE 34 -->
+            <p>It is, no wonder when a Sword is put into a mad mans hand, to ſee him cut off limb by limb, and then to kill himſelf.</p>
+            <p>When there is a great breach of the ſea upon the low grounds, by the violence of the tor<g ref="char:EOLhyphen"/>rent, the Rivers of ſweet waters are often turn<g ref="char:EOLhyphen"/>ed aſide, and the ſalt waters make themſelves a Channel, but when the breach is made up, good husbands drain their lands again, and re<g ref="char:EOLhyphen"/>ſtore the ancient Sewers.</p>
+            <p>Thanks he to God the flood is gone off the face of this Iſland; our Turtle Dove hath found good footing; Your Majeſty is happily reſtored to the Government, the temporal Lords and Commons are reſtored to ſit in Parliament, and ſhall the Church alone now ſuffer?</p>
+            <q>
+               <hi>Sit Eccleſia Anglicana libera, &amp; habeat liber<g ref="char:EOLhyphen"/>tates ſuas illaſas.</hi>
+            </q>
+            <p>In order to this great work the Commons have prepared a Bill to repeal that Law was made in 17 <hi>Car.</hi> whereby the Biſhops were excluded this Houſe: theſe Noble Lords have all agreed, and now we beg Your Majeſty will give it life: ſpeak out the word, Great Sir, and Your ſervants yet ſhall live.</p>
+            <p>We cannot well forget the method, how Our late miſeries, like waves of the Sea, came in
+<pb n="6" facs="tcp:56441:5"/>
+               <!-- PDF PAGE 35 -->upon us: firſt the people were invited to Peti<g ref="char:EOLhyphen"/>tion, to give colour to ſome illegal demands; then they muſt Remonſtrate, then they muſt Proteſt, then they muſt Covenant, then they muſt aſſociate, then they muſt engage againſt our lawful Government, and for the mainte<g ref="char:EOLhyphen"/>nance of the moſt horrid Tyranny that ever was invented. For the prevention of this pra<g ref="char:EOLhyphen"/>ctice for the future, We do humbly tender un<g ref="char:EOLhyphen"/>to Your Majeſty a Bill, entituled, <hi>An Act a<g ref="char:EOLhyphen"/>gainſt tumults and diſorders, upon pretence of pre<g ref="char:EOLhyphen"/>paring or preſenting publick Petitions or Addreſſes to Your Majeſty or the Parliament.</hi>
+            </p>
+            <p>In the next place, we held it our Duty to unde<g ref="char:EOLhyphen"/>ceive the <hi>People,</hi> who have bin poiſoned with an Opinion, <hi>That the Militia of this Nation was in themſelves, or in their Repreſentatives in Parlia<g ref="char:EOLhyphen"/>ment:</hi> and according to the ancient known Laws, we have declared <hi>the ſole Right of the Militia to be in Your Majeſty.</hi> And foraſmuch as our time hath not permitted us to finiſh a Bill intended for the future ordering of the ſame; we ſhall preſent you with a temporary Bill, for the <hi>preſent managing and diſpoſing of the Land-For<g ref="char:EOLhyphen"/>ces:</hi> And likewiſe another Bill, for <hi>the eſtabliſh<g ref="char:EOLhyphen"/>ing certain Articles and Orders for the Regulation and Government of Your Majeſty's Navies and Forces by Sea.</hi>
+            </p>
+            <pb n="7" facs="tcp:56441:5"/>
+            <!-- PDF PAGE 35 -->
+            <p>According to Your <hi>Majeſty</hi>'s Commands we have examined many of the publick, and private Bills which paſſed laſt <hi>Parliament,</hi> and have prepared ſome Bills of Confirmation: we have alſo aſcertained the <hi>Pains and Penalties to be impoſed upon the Perſons or Eſtates of thoſe Miſcreants who had a hand in the Murder of Your Royal Father of Bleſſed Memory,</hi> and were therefore Excepted in Your <hi>Majeſties</hi> Act of Oblivion: Wherein we have declared to all the world, how juſt an Indignation we had againſt that <hi>horrid Regicide.</hi>
+            </p>
+            <p>We have likewiſe prepared a Bill for the <hi>Col<g ref="char:EOLhyphen"/>lection of great Arrears of the Duty of Exciſe,</hi> which I do here in the name of the Commons humbly preſent unto Your <hi>Majeſty:</hi> the Rea<g ref="char:EOLhyphen"/>ſon we conceive why it was not formerly paid, was becauſe the <hi>People</hi> diſliked the Authority whereby it was impoſed; But underſtanding that it is now given to Your <hi>Majeſty,</hi> it will come in with as great freedom. <hi>Aliquiſque malo erit uſus in illo.</hi>
+            </p>
+            <p>Your <hi>Majeſty</hi> was pleaſed at the opening of the <hi>Parliament</hi> to tell us, <hi>That you intended this Summer to take a Progreſs, and ſee Your People, and at Your return did hope to bring a Queen home with you.</hi> Sir, this welcome News hath made us caſt about all ways for Your Accommodation.
+<pb n="8" facs="tcp:56441:6"/>
+               <!-- PDF PAGE 36 -->And therefore that no conveniencies might be wanting, either for Your <hi>Majeſty,</hi> Your <hi>Queen,</hi> or Your <hi>Attendants,</hi> We have prepared a Bil, intituled, <hi>An Act for providing neceſſary Car<g ref="char:EOLhyphen"/>riages in all Your Royal Progreſſes and removals.</hi>
+            </p>
+            <p>Your <hi>Majeſty</hi> was likewiſe pleaſed at our firſt meeting to ſay, <hi>You would not tyre us, with hard Duty, and hot Service, and therefore about this time intended a receſs.</hi> That Royal Favour vvill novv be very ſeaſonable, and We hope advan<g ref="char:EOLhyphen"/>tagious both to Your Majeſty, and our ſelves: We knovv in our abſence Your Princely Heart and Head vvill not be free from Cares and Thoughts of our Protection: And vvhen We leave our Hive, like the induſtrious Bee, We ſhall but flie about the ſeveral Countreys of <hi>the Nation</hi> to gather <hi>Honey;</hi> and vvhen <hi>Your Majeſty</hi> ſhall be pleaſed to name the time, return vvith loaded Thighs unto our Houſe again.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56441:6"/>
+            <!-- PDF PAGE 36 -->
+         </div>
+      </body>
+   </text>
+</TEI>
